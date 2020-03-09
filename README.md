@@ -50,13 +50,13 @@ Subprojects must meet the following criteria (and the WG agrees to maintain them
 
 To request introduction of a new subproject, add a list item to the "Subprojects" section and open a Pull Request to this repository, following the default Pull Request Template to populate the text of the PR.
 
-At the next meeting, the PR will be reviewed, and merged on unanimous agreement from Approvers.
+PR will be merged on unanimous approval from Approvers.
 
 ### Subproject changes
 
 Modify the relevant list item in the "Subprojects" section and open a Pull Request to this repository, following the default Pull Request Template to populate the text of the PR.
 
-At the next WG meeting, the PR will be reviewed, and merged on unanimous agreement from Approvers.
+PR will be merged on unanimous approval from Approvers.
 
 ### Deprecating subprojects
 
@@ -65,7 +65,7 @@ We do not commit to maintaining every subproject in perpetuity.
 
 To suggest removal of a subproject, remove the relevant list item in the "Subprojects" section and open a Pull Request in this repository, following instructions in the Pull Request Template to populate the text of the PR.
 
-At the next WG meeting, the PR will be reviewed, and merged on unanimous agreement from Approvers.
+PR will be merged on unanimous approval from Approvers.
 
 If the repositories of the subproject are under the WG's GitHub organization, they will be transferred out of the organization or deleted at this time.
 
@@ -94,11 +94,11 @@ Working Group members may act in one or more of the following roles:
   * Responsible for triaging issues
 * **Reviewer**
   * All reviewers are members
-  * Prerequisite: A history of contributions to WG-owned Subprojects
+  * Prerequisite: Proven track record of high-quality reviews to WG Subprojects
   * Responsible for reviewing pull requests
 * **Approver**
   * All approvers are reviewers
-  * Prerequisite: A history of high quality code reviews on contributions to WG-owned Subprojects
+  * Prerequisite: Proven track record of high-quality contributions and reviews to WG Subprojects
   * Responsible for approving and merging pull requests
   * Responsible for vetting and accepting new projects into the Working Group
 * **Lead**
@@ -108,7 +108,8 @@ Working Group members may act in one or more of the following roles:
   * Responsible for breaking ties
 
 To become a member or change role, create an issue in this repository using the appropriate issue template.
-Such applications are accepted upon unanimous agreement from Approvers,  and are typically based on the applicant's history with the subprojects of the Working Group.
+Such applications are accepted upon unanimous agreement from Approvers, and are typically based on the applicant's history with the subprojects of the Working Group.
+The Lead role cannot be applied for, as it is an appointee of the ROS 2 TSC.
 
 ### Modifying this governance document
 
