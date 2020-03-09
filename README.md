@@ -34,7 +34,7 @@ The following subprojects are owned by the Working Group:
 
 ### Standards for subprojects
 
-When adopting a subproject, the WG agrees that the following criteria will be maintained by the WG.
+Subprojects must meet the following criteria (and the WG agrees to maintain them upon adoption).
 
 * Build passes against ROS 2 master
 * The ROS 2 standard linter set is enabled and adhered to
