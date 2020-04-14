@@ -5,7 +5,8 @@ TEMPLATE: This repository acts as a template for individual Working Groups to st
 All information in double curly-braces must be replaced with details for the specific Working Group.
 NOTE: check the issue and pull request templates as well, under `.github` directory.
 
-When starting a new working group, we recommend you fork this repository to the WG organization.
+This is a template repository.
+When starting a new working group, [use this template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) to create a new repository in the WG organization.
 }}
 
 This document defines the scope and governance of the Working Group (WG).
