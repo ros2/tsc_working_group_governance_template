@@ -39,11 +39,11 @@ Subprojects must meet the following criteria (and the WG agrees to maintain them
 
 * Build passes against ROS 2 master
 * The ROS 2 standard linter set is enabled and adhered to
-* Builds have 0 warnings
+* If packages are part of nightly builds on the ROS build farm, there are no reported warnings or test failures
 * Quality builds are green (address sanitizer, thread sanitizer, clang thread safety analysis)
 * Test suite passes
 * Code coverage is measured, and non-decreasing level is enforced in PRs
-* Issues are responded to promptly
+* Issues and pull requests receive prompt responses
 * Releases go out regularly when bugfixes or new features are introduced
 * The backlog is maintained, avoiding longstanding stale issues
 
